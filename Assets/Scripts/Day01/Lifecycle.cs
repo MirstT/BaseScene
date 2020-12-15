@@ -100,6 +100,7 @@ public class Lifecycle : MonoBehaviour
         int b = 2;
         int c = a + b;
         //右键-快速监视  查看-即时窗口
+
     }
 
 }
