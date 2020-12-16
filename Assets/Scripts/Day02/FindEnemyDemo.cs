@@ -10,6 +10,12 @@ public class FindEnemyDemo : MonoBehaviour
             Enemy min = FindEnemyByMinHP(allEnemy);
             min.GetComponent<MeshRenderer>().material.color = Color.red;
         }
+        if (GUILayout.Button("层级未知，查找子物体"))
+        {
+            var childTF = TransformHelper.GetChild(this.transform, "ww");
+            childTF.GetComponent<MeshRenderer>().material.color = Color.blue;
+            print(childTF.transform.name);
+        }
     }
 
     public Enemy FindEnemyByMinHP(Enemy[] allEnemy)
