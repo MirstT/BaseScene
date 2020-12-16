@@ -65,6 +65,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Day01\ComponentDemo.cs" />
+    <Compile Include="Assets\Scripts\Day01\GameObjectDemo.cs" />
     <Compile Include="Assets\Scripts\Day01\Lifecycle.cs" />
     <Compile Include="Assets\Scripts\Day01\TransformDemo.cs" />
     <Compile Include="Assets\Scripts\Week1\CubeScripts.cs" />
