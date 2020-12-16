@@ -68,6 +68,8 @@
     <Compile Include="Assets\Scripts\Day01\GameObjectDemo.cs" />
     <Compile Include="Assets\Scripts\Day01\Lifecycle.cs" />
     <Compile Include="Assets\Scripts\Day01\TransformDemo.cs" />
+    <Compile Include="Assets\Scripts\Day02\Enemy.cs" />
+    <Compile Include="Assets\Scripts\Day02\FindEnemyDemo.cs" />
     <Compile Include="Assets\Scripts\Week1\CubeScripts.cs" />
     <Compile Include="Assets\Scripts\Week1\move.cs" />
     <Compile Include="Assets\Scripts\Week2_1\Finddtype.cs" />
