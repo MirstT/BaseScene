@@ -64,18 +64,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\CubeScripts.cs" />
     <Compile Include="Assets\Scripts\Day01\ComponentDemo.cs" />
     <Compile Include="Assets\Scripts\Day01\Lifecycle.cs" />
-    <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
-    <Compile Include="Assets\Scripts\NewBehaviourScript1.cs" />
+    <Compile Include="Assets\Scripts\Week1\CubeScripts.cs" />
+    <Compile Include="Assets\Scripts\Week1\move.cs" />
     <Compile Include="Assets\Scripts\Week2_1\Finddtype.cs" />
     <Compile Include="Assets\Scripts\Week2_1\Ins.cs" />
     <Compile Include="Assets\Scripts\Week2_1\TagNameTest.cs" />
     <Compile Include="Assets\Scripts\Week2_1\Test.cs" />
     <Compile Include="Assets\Scripts\Week2_1\contoller.cs" />
     <Compile Include="Assets\Scripts\Week2_2\Login.cs" />
-    <Compile Include="Assets\Scripts\move.cs" />
+    <Compile Include="Assets\Scripts\Week3_2\SliderMethod.cs" />
+    <Compile Include="Assets\Scripts\Week3_2\Week3_2.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.15f1c1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
