@@ -68,8 +68,10 @@
     <Compile Include="Assets\Scripts\Day01\GameObjectDemo.cs" />
     <Compile Include="Assets\Scripts\Day01\Lifecycle.cs" />
     <Compile Include="Assets\Scripts\Day01\TransformDemo.cs" />
+    <Compile Include="Assets\Scripts\Day02\CountDownTimer.cs" />
     <Compile Include="Assets\Scripts\Day02\Enemy.cs" />
     <Compile Include="Assets\Scripts\Day02\FindEnemyDemo.cs" />
+    <Compile Include="Assets\Scripts\Day02\TimeDemo.cs" />
     <Compile Include="Assets\Scripts\Day02\TransformHelper.cs" />
     <Compile Include="Assets\Scripts\Week1\CubeScripts.cs" />
     <Compile Include="Assets\Scripts\Week1\move.cs" />
